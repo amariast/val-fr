@@ -65,7 +65,7 @@
 	font-size: 1.2em;
 	font-weight: 300;
 }
-.capital {
+.capital { 
 	text-transform: uppercase;
 	font-size: 2em;
 	font-weight: bold
